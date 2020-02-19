@@ -1,2 +1,2 @@
 # Hex-game
-TIPE
+TIPE: but créer un environnement compatible avec open AI gym
